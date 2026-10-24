@@ -1,0 +1,31 @@
+{
+  "animals": [
+    "cat", "dog", "elephant", "giraffe", "penguin", "kangaroo", "dolphin", "owl",
+    "butterfly", "octopus", "lion", "tiger", "rabbit", "panda", "koala", "monkey",
+    "shark", "whale", "camel", "crocodile", "flamingo", "zebra", "cheetah", "turtle",
+    "hedgehog", "squirrel", "parrot", "peacock", "eagle", "chameleon", "frog", "bear"
+  ],
+  "food": [
+    "pizza", "burger", "ice cream", "sushi", "taco", "pancake", "spaghetti", "apple",
+    "banana", "donut", "sandwich", "cupcake", "cookie", "french fries", "popcorn",
+    "hot dog", "cheese", "strawberry", "watermelon", "chocolate", "croissant", "pineapple",
+    "egg", "bread", "avocado", "grapes", "carrot", "broccoli", "waffle", "pie"
+  ],
+  "objects": [
+    "guitar", "umbrella", "pencil", "clock", "backpack", "telescope", "compass",
+    "skateboard", "teapot", "camera", "chair", "laptop", "scissors", "sunglasses",
+    "toothbrush", "flashlight", "candle", "balloon", "key", "helmet", "book", "lamp",
+    "mirror", "headphones", "pillow", "hammer", "umbrella", "kite", "bucket", "radio"
+  ],
+  "actions": [
+    "dancing", "swimming", "flying", "climbing", "sleeping", "painting", "singing",
+    "cooking", "running", "reading", "laughing", "jumping", "fishing", "skating",
+    "diving", "crying", "sneezing", "shopping", "writing", "stretching", "yawning",
+    "whispering", "cycling", "boxing", "gardening", "typing", "drinking", "juggling"
+  ],
+  "places": [
+    "beach", "castle", "desert", "island", "library", "volcano", "forest", "airport",
+    "playground", "hospital", "museum", "circus", "cinema", "lighthouse", "space station",
+    "waterfall", "pyramid", "bridge", "amusement park", "supermarket", "stadium", "igloo"
+  ]
+}

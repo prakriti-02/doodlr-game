@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: doodlr-skribbl-clone
+    env: node
+    plan: free
+    buildCommand: npm install && npm install --prefix server && npm install --prefix client && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 10000
+      - key: CORS_ORIGIN
+        value: "*"
