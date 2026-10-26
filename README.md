@@ -1,5 +1,5 @@
 # 🎨 DOODLR — Real-Time Multiplayer Drawing & Guessing Game
-Live Deployment
+## 🚀 Live Deployment
 
 - Frontend (Live Demo): https://doodlr-game.onrender.com
 - Backend (Base URL): https://doodlr-game.onrender.com
@@ -7,6 +7,7 @@ Live Deployment
 The frontend and backend are deployed together on the same Render service.
 
 > A full-stack, production-ready **Skribbl.io Clone** built with **React, TypeScript, Vite, Tailwind CSS, Node.js, Express, Socket.IO, and the HTML5 Canvas API**.
+> > **🌐 Live Demo:** https://doodlr-game.onrender.com
 
 ---
 
